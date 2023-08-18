@@ -4,7 +4,7 @@ use crate::{
     schema::{CreateQuoteSchema, UpdateQuoteSchema},
     AppState,
 };
-use actix_web::{delete, get, patch, post, web, App, HttpResponse, Responder};
+use actix_web::{delete, get, patch, post, web, HttpResponse, Responder};
 
 /*
 here we convert QuoteModel to QuoteModelResponse because
