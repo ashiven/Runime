@@ -1,2 +1,2 @@
 # Runime
-A web API to fetch random anime quotes
+A CRUD API to fetch random anime quotes
